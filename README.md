@@ -1,2 +1,2 @@
-# A-kid-made-web-video-compression-to
-A kid-made web video compression to
+# kid-made-web-video-compression-tool
+A kid-made web video compression tool
